@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'cloudinary_storage',
     'django.contrib.staticfiles',
     'cloudinary',
+    'jazzmin',
     'django.contrib.sites',
     'allauth',
     'allauth.account',
